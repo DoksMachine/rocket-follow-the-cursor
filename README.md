@@ -1,1 +1,1 @@
-# rocket-follow-the-cursor
+# rocket-follow-the-cursor-final-version
